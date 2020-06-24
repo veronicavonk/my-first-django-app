@@ -9,7 +9,7 @@ Create your enviroment:
 python -m venv myvenv
 ```
 
-Active your enviroment:
+Active yor enviroment:
 ```
 myvenv\Scripts\activate
 ```
@@ -24,5 +24,5 @@ python manage.py runserver
 
 
 ## Results
-![](/images/capture.jpg)
+![GitHub Logo](/images/capture.JPG)
 ![](/images/blog.gif)
