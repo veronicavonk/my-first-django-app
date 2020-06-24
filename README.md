@@ -24,5 +24,5 @@ python manage.py runserver
 
 
 ## Results
-![GitHub Logo](/images/capture.jpg)
+![](/images/capture.jpg)
 ![](/images/blog.gif)
